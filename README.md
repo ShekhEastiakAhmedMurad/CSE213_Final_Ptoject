@@ -1,2 +1,1 @@
-# CSE213_Final_Project
-Spring 2026 Algorithms Final Phone Book Project.
+**Phone Book Management System** is an Algorithms Lab Final Project developed at **Daffodil International University (DIU)** in **Spring 2026**, designed to simplify and efficiently manage phone numbers and contacts.
